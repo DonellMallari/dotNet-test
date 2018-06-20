@@ -49,7 +49,6 @@ API Requests examples:
 - Good component structure
 - Use Entity Framework for storage or something else
 - 100% Test coverage
-- Use Maven or Gradle
 
 ## Optional
 
